@@ -1,2 +1,2 @@
 # js-function-1
- function that counts how many digits a number has and another that counts the longest string.
+two types of functions, the first counts how many digits a number contains and the second counts the longest string within an array.
